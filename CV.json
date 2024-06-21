@@ -1,0 +1,78 @@
+{
+    "basics": {
+      "name": "Ally Featherstone",
+      "label": "Software Engineer",
+      "email": "allyfeatherstone@outlook.com",
+      "phone": "upon request",
+      "url": "https://allyfeatherstone.github.io/",
+      "summary": "A summary of Ally Featherstone",
+      "location": {
+        "countryCode": "UK",
+        "region": "Yorkshire"
+      },
+      "profiles": [{
+        "network": "LinkedIn",
+        "url": "https://www.linkedin.com/in/ally-featherstone-857a6313b/"
+      }]
+    },
+    "work": [{
+      "name": "Sky Betting and Gaming",
+      "position": "Software Engineer",
+      "startDate": "2023-01-02",
+      "endDate": "Present",
+      "summary": "In a Payments team, working Kanban, completing ticketed work across BAU and Tech Debt, as well as project work across large scale company initiatives. Working with PHP, Javascript, Java, Jenkins, Docker, Kafka, on a SDLC. Most recent projects include writing automation tests."
+    },
+    {
+      "name": "Sky Betting and Gaming",
+      "position": "Salesforce Engineer",
+      "startDate": "2021-01-04",
+      "endDate": "2023-01-02",
+      "summary": "Working in an Agile team, completing ticketed work across a sprint. Using Jira and coding on the Salesforce Service Cloud platform. Pairing with and supporting Salesforce Administrators. Predominantly using Apex and Javascript, across LWC, Aura, and Jenkins deployments"
+    },
+     {
+      "name": "Sky Betting and Gaming",  
+      "position": "Tech Academy Graduate / Salesforce Engineer",
+      "startDate": "2019-08-27",
+      "endDate": "2021-01-04",
+      "summary": "Studying an apprenticeship degree for 10% of the time while training to be a Salesforce engineer in the team for the other 90%. Completing theory and practical assignments based on my area of the business. "
+    }],
+    "education": [{
+      "institution": "Sheffield Hallam University",
+      "area": "MSc(Hons) Digital Technology Solutions Specialism (Software Engineering)",
+      "studyType": "Masters",
+      "startDate": "September 2019",
+      "endDate": "September 2021",
+      "score": "Distinction"
+    },
+    {
+      "institution": "Manchester Metropolitan University",
+      "area": "BSc(Hons) Biomedical Science",
+      "studyType": "Bachelors",
+      "startDate": "September 2016",
+      "endDate": "September 2019",
+      "score": "First Class Honours"
+    },
+    {
+      "institution": "Wyke College",
+      "area": "Biology, Chemistry and French",
+      "studyType": "A Level",
+      "startDate": "September 2013",
+      "endDate": "September 2016",
+      "score": "B"
+    },
+    {
+      "institution": "South Holderness Technology College",
+      "area": "Various Subjects",
+      "studyType": "GCSE",
+      "startDate": "September 2009",
+      "endDate": "September 2013",
+      "score": "7 A's, 3 B's and 1 C"
+    }
+    ],
+    "certificates": [{
+      "name": "Salesforce Certified Administrator",
+      "date": "May 2022",
+      "issuer": "Salesforce",
+      "url": "https://www.salesforce.com/trailblazer/allyleigh"
+    }]
+  }
