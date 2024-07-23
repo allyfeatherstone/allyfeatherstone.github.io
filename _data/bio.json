@@ -1,113 +1,88 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "name": "Ally Featherstone",
+    "label": "Software Engineer",
+    "picture": "https://github.com/allyfeatherstone.png",
+    "email": "allyfeatherstone@outlook.com",
+    "website": "https://allyfeatherstone.github.io",
+    "summary": "I am a software engineer with experience working as a Salesforce engineer",
+    "location": { "address": "countryCode": "UK", "region": "Yorkshire" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "allyfeatherstone", "url": "http://github.com/allyfeatherstone" },
+      { "network": "linkedin", "username": "mollymaluhia", "url": "https://www.linkedin.com/in/ally-featherstone-857a6313b/" },
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Reading" },
+    { "name": "Hiking" },
+    { "name": "Crochet" },
+    { "name": "Embroidery" },
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "Java", "Javascript", "Apex", "PHP"]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Git/GitHub"]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
-      "courses": [
-      ]
+      "institution": "Sheffield Hallam University",
+      "area": "MSc(Hons) Digital Technology Solutions Specialism (Software Engineering)",
+      "studyType": "MSc.",
+      "startDate": "September 2019",
+      "endDate": "September 2021"
+    },
+     {
+      "institution": "Manchester Metropolitan University",
+      "area": "BSc(Hons) Biomedical Science",
+      "studyType": "BSc.",
+      "startDate": "September 2016",
+      "endDate": "September 2019"
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Sky Betting and Gaming",
+      "position": "Software Engineer",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2023-01-02",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "In a Payments team, working Kanban, completing ticketed work across BAU and Tech Debt, as well as project work across large scale company initiatives. Working with PHP, Javascript, Java, Jenkins, Docker, Kafka, on a SDLC. Most recent projects include writing automation tests.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "TBC",
+        "TBC"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Sky Betting and Gaming",
+      "position": "Salesforce Engineer",
+      "startDate": "2019-08-27",
+      "endDate": "2021-01-04",
+      "summary": "Working in an Agile team, completing ticketed work across a sprint. Using Jira and coding on the Salesforce Service Cloud platform. Pairing with and supporting Salesforce Administrators. Predominantly using Apex and Javascript, across LWC, Aura, and Jenkins deployments.",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "TBC"
       ]
     },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+     {
+      "company": "Sky Betting and Gaming",
+      "position": "Tech Academy Graduate / Salesforce Engineer",
+      "startDate": "2021-01-04",
+      "endDate": "2023-01-02",
+      "summary": "Studying an apprenticeship degree for 10% of the time while training to be a Salesforce engineer in the team for the other 90%. Completing theory and practical assignments based on my area of the business",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "TBC"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Salesforce Certified Administrator",
+      "date": "May 2022",
+      "awarder": "Salesforce"
     }
   ],
   "references": [
