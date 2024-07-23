@@ -6,7 +6,7 @@
     "email": "allyfeatherstone@outlook.com",
     "website": "https://allyfeatherstone.github.io",
     "summary": "I am a software engineer with experience working as a Salesforce engineer",
-    "location": { "address": "countryCode": "UK", "region": "Yorkshire" },
+    "location": { "address":"", "countryCode": "UK", "region": "Yorkshire" },
     "profiles": [
       { "network": "github", "username": "allyfeatherstone", "url": "http://github.com/allyfeatherstone" },
       { "network": "linkedin", "username": "mollymaluhia", "url": "https://www.linkedin.com/in/ally-featherstone-857a6313b/" }
