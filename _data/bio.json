@@ -9,14 +9,14 @@
     "location": { "address": "countryCode": "UK", "region": "Yorkshire" },
     "profiles": [
       { "network": "github", "username": "allyfeatherstone", "url": "http://github.com/allyfeatherstone" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "https://www.linkedin.com/in/ally-featherstone-857a6313b/" },
+      { "network": "linkedin", "username": "mollymaluhia", "url": "https://www.linkedin.com/in/ally-featherstone-857a6313b/" }
     ]
   },
   "interests": [
     { "name": "Reading" },
     { "name": "Hiking" },
     { "name": "Crochet" },
-    { "name": "Embroidery" },
+    { "name": "Embroidery" }
   ],
   "skills": [
     {
