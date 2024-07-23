@@ -9,7 +9,7 @@
     "location": { "address":"", "countryCode": "UK", "region": "Yorkshire" },
     "profiles": [
       { "network": "github", "username": "allyfeatherstone", "url": "http://github.com/allyfeatherstone" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "https://www.linkedin.com/in/ally-featherstone-857a6313b/" }
+      { "network": "linkedin", "username": "Ally Featherstone", "url": "https://www.linkedin.com/in/ally-featherstone-857a6313b/" }
     ]
   },
   "interests": [
@@ -33,15 +33,15 @@
       "institution": "Sheffield Hallam University",
       "area": "MSc(Hons) Digital Technology Solutions Specialism (Software Engineering)",
       "studyType": "MSc.",
-      "startDate": "September 2019",
-      "endDate": "September 2021"
+      "startDate": "2019",
+      "endDate": "2021"
     },
      {
       "institution": "Manchester Metropolitan University",
       "area": "BSc(Hons) Biomedical Science",
       "studyType": "BSc.",
-      "startDate": "September 2016",
-      "endDate": "September 2019"
+      "startDate": "2016",
+      "endDate": "2019"
     }
   ],
   "work": [
